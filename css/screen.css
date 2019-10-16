@@ -222,20 +222,17 @@ label {
         color: #F4F4F4;
     }
     #input-email {
-        margin-left: 2%;
+        margin-left: 25px;
         font-size: 30px;
-        padding-top: 50px;
-    }
-    #email-text {
-        padding: 0em 0em .4em 0em;
+        padding-top: 80px;
     }
     #email {
-        width: 90%;
+        width: 70%;
         margin: .1em 0em 1em 0em;
         background-color: #F9F9F9;
     }
     input[type=checkbox] {
-        height: 1em;
+        height: 3em;
         width: 1em;
         margin: 1em;
     }
