@@ -231,27 +231,24 @@ label {
         margin: .1em 0em 1em 0em;
         background-color: #F9F9F9;
     }
+    #input-submit {
+        text-align: center;
+
+    }
     input[type=checkbox] {
         height: 3em;
         width: 1em;
         margin: 1em;
     }
-    #input-submit {
-        text-align: center;
-
-    }
     input[type=submit] {
-        background-color: #B2B3B2;
-        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-        font-family: 'Quicksand', sans-serif;
-        border: none;
         border-radius: 5px;
         color: #040404;
         padding: 30px 64px;
         text-align: center;
-        text-decoration: none;
-        display: inline-block;
         font-size: 30px;
         margin: 1em;
+        background-color: #B2B3B2;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        font-family: 'Quicksand', sans-serif;
     }
 }
